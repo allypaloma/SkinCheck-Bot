@@ -3,4 +3,8 @@ The website utilizes a Google Colab's machine learning model which provides pati
 
 ### Setup
 Link to the website:
-  [link](https://63a5596592f6e84501.gradio.live)
+  ```
+{
+  https://63a5596592f6e84501.gradio.live
+}
+``` 
